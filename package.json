@@ -1,0 +1,19 @@
+{
+  "name": "gifbeat",
+  "version": "1.0.0",
+  "description": "Gif to time signature detection",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start --config=karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loadedsith/gifbeat.git"
+  },
+  "author": "graham.p.heath@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loadedsith/gifbeat/issues"
+  },
+  "homepage": "https://github.com/loadedsith/gifbeat#readme"
+}

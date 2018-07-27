@@ -5,3 +5,4 @@ mkdir gifbeat
 cd gifbeat
 git init
 touch readme.md
+npm init

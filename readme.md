@@ -10,7 +10,7 @@ Pull requests from feature branches. No one gets to commit directly to master.
 
 Local dev for now. Heroku eventually?
 
-##How'd we get here?
+## How'd we get here?
 
     mkdir gifbeat
     cd gifbeat
